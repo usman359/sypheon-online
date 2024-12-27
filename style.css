@@ -5,6 +5,10 @@ body {
   background-color: white !important;
 }
 
+.text-center {
+  font-size: 1.5rem;
+}
+
 #three-Text {
   display: none;
   background-color: yellow;
